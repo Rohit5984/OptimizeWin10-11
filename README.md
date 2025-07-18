@@ -1,13 +1,8 @@
 # OptimizeWin10-11
-A simple yet powerful PowerShell script to optimize and improve the performance of Windows 10 and 11. The script includes various tweaks and configurations designed to enhance system performance, security, and overall user experience. Created by: Rohit Kr. Mandal
-# OptimizeWin10-11
-
 A simple PowerShell script to optimize your **Windows 10** or **Windows 11** PC. The script will help make your system faster by disabling unwanted services, permissions, and removing unnecessary apps like Microsoft Edge and OneDrive.
 
 **Created by:** Rohit Kr. Mandal
-
 ---
-
 ## How to Use
 
 ### 1. Download the Script
